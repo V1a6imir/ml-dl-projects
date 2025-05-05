@@ -5,8 +5,13 @@
 .ipynb_checkpoints/
 
 # Не добавлять крупные данные
+*.zip
+*.csv
 *.pdf
-*.docx
+*.xml
+*.jpg
+*.jpeg
+
 
 # Python
 __pycache__/
