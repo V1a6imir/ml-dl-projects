@@ -1,0 +1,17 @@
+# MacOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Не добавлять крупные данные
+*.pdf
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
