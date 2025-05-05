@@ -1,4 +1,0 @@
-# label:color_rgb:parts:actions
-background:0,0,0::
-cat:128,0,0::
-dog:0,128,0::
